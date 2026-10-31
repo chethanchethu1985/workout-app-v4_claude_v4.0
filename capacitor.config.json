@@ -1,0 +1,6 @@
+{
+  "appId": "com.myworkout.v3",
+  "appName": "My Workouts V4",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}

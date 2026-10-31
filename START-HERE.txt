@@ -1,0 +1,2 @@
+MY WORKOUTS V4
+Build steps: see V4_BUILD_AND_RELEASE.md. Read V4_PDF_RECONCILIATION.md for the items that need your confirmation.
